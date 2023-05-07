@@ -1,0 +1,16 @@
+use "git status" check the status
+
+Use "git checkout master" to use the main folder
+
+Use " git log " to use check the commit
+
+
+Use "Git add ." to use the all the file in staging 
+
+use "Git branch " to use to creat the branch
+
+Use " Git checkout -b Mangala/mulyiply" to switched to new branch 'Mangala/multiply"
+
+Use : Git remote -v" to use pull/fetch the file
+
+
